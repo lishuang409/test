@@ -1,4 +1,7 @@
-dsdffjkdhksjff
-abcccf
+<<<<<<< HEAD
+=======
+djkdhkjff
+AKJSasssbcccf
+>>>>>>> dev
 jdgfhsjdhfhkfshhd
 jdfghja
